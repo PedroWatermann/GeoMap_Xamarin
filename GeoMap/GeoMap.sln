@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoMap.Android", "GeoMap.Android\GeoMap.Android.csproj", "{AD1AB4D8-796E-4F64-9132-6D6C4B5B064E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoMap", "GeoMap\GeoMap.csproj", "{59ADE005-1868-4BE4-B461-126FA5516743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1AB4D8-796E-4F64-9132-6D6C4B5B064E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1AB4D8-796E-4F64-9132-6D6C4B5B064E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1AB4D8-796E-4F64-9132-6D6C4B5B064E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AD1AB4D8-796E-4F64-9132-6D6C4B5B064E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1AB4D8-796E-4F64-9132-6D6C4B5B064E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1AB4D8-796E-4F64-9132-6D6C4B5B064E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{59ADE005-1868-4BE4-B461-126FA5516743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ADE005-1868-4BE4-B461-126FA5516743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ADE005-1868-4BE4-B461-126FA5516743}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{59ADE005-1868-4BE4-B461-126FA5516743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ADE005-1868-4BE4-B461-126FA5516743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59ADE005-1868-4BE4-B461-126FA5516743}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {320E458B-58DC-4ED4-BD8D-F5795F30D85C}
+	EndGlobalSection
+EndGlobal

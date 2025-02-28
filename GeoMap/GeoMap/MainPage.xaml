@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GeoMap.MainPage">
+
+    <StackLayout>
+        <StackLayout HorizontalOptions="Center"
+                     VerticalOptions="Start">
+
+            <Image Source="Map_Marker" Margin="0, 50, 0, 0"/>
+            <Image Source="Mobile_Marker" Margin="0, 0, 0, 10"/>
+
+            <Label Text="Geolocalização"
+                   FontAttributes="Bold"
+                   FontSize="50"
+                   TextColor="#CA6F1E"
+                   HorizontalTextAlignment="Center"
+                   Margin="0, 0, 0, 10"/>
+            
+            <Button Text="Ver Localização"
+                    BackgroundColor="#000081"
+                    BorderWidth="3"
+                    BorderColor="#00006D"
+                    TextColor="White"
+                    FontSize="20"
+                    FontAttributes="Bold"
+                    CornerRadius="20"
+                    x:Name="btnLocalizacao"
+                    Clicked="btnLocalizacao_Clicked"/>
+
+            <Label HorizontalTextAlignment="Center"
+                   x:Name="lblLatitude"/>
+            <Label HorizontalTextAlignment="Center"
+                   x:Name="lblLongitude"/>
+
+            <Button Text="Ver no Mapa"
+                    BackgroundColor="#008900"
+                    BorderWidth="3"
+                    BorderColor="#006D00"
+                    TextColor="White"
+                    FontSize="20"
+                    FontAttributes="Bold"
+                    CornerRadius="20"
+                    x:Name="btnMapa"
+                    Clicked="btnMapa_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

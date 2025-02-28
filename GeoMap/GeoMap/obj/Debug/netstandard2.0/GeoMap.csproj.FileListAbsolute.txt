@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\bin\Debug\netstandard2.0\GeoMap.deps.json
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\bin\Debug\netstandard2.0\GeoMap.dll
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\bin\Debug\netstandard2.0\GeoMap.pdb
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\GeoMap.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\GeoMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\GeoMap.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\GeoMap.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\GeoMap.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\GeoMap.dll
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\refint\GeoMap.dll
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\GeoMap.pdb
+C:\Users\Aluno\source\repos\PedroWatermann\GeoMap_Xamarin\GeoMap\GeoMap\obj\Debug\netstandard2.0\ref\GeoMap.dll
