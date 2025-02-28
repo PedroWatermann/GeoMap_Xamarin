@@ -33,16 +33,8 @@ namespace GeoMap
         {
             try
             {
-                var location = await Geolocation.GetLastKnownLocationAsync();
-                if (location == null)
-                {
-                    location = await Geolocation.GetLocationAsync(new GeolocationRequest
-                    {
-                        DesiredAccuracy = GeolocationAccuracy.Medium,
-                        Timeout = TimeSpan.FromSeconds(10)
-                    });
-                }
-                else
+                var location = await Geolocation.GetLocationAsync();
+                if (location != null) 
                 {
                     lblLatitude.Text = $"Latitude: {location.Latitude}";
                     lblLongitude.Text = $"Longitude: {location.Longitude}";
